@@ -47,7 +47,6 @@
      color: #fff;
    }
    
-   
    .submit-button:hover {
      background-color: #fff;
      color: #333;
@@ -59,6 +58,22 @@
 
    .logo:hover {
     color: #fff;
+  }
+
+  .content-wrapper {
+    background-color: #333;
+    padding: 40px;
+    margin-top: 20px;
+  }
+
+  .content-wrapper a {
+    color: #FFF;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+  .page-title {
+    margin-bottom: 40px;
   }
 
   @media (max-width: 991px) {
