@@ -77,6 +77,16 @@
   }
 
   @media (max-width: 991px) {
+    .w-container {
+      max-width: 880px;
+    }
+
+    .content-wrapper p {
+      font-size: 30px;
+      line-height: 35px;
+      font-weight: normal;
+    }
+
     .hero {
       background-position: right;
     }
